@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="4286" started-at="2022-05-01T21:04:24 IST" finished-at="2022-05-01T21:04:28 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="4286" started-at="2022-05-01T21:04:24 IST" finished-at="2022-05-01T21:04:28 IST">
+      <class name="com.qa.testscripts.TC_PUT_005">
+        <test-method status="PASS" signature="putDemo()[pri:1, instance:com.qa.testscripts.TC_PUT_005@27a5f880]" name="putDemo" duration-ms="3024" started-at="2022-05-01T21:04:24 IST" finished-at="2022-05-01T21:04:27 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- putDemo -->
+        <test-method status="PASS" signature="patchDemo()[pri:2, instance:com.qa.testscripts.TC_PUT_005@27a5f880]" name="patchDemo" duration-ms="1203" started-at="2022-05-01T21:04:27 IST" finished-at="2022-05-01T21:04:28 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- patchDemo -->
+      </class> <!-- com.qa.testscripts.TC_PUT_005 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
